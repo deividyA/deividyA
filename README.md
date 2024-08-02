@@ -1,7 +1,6 @@
 <h3>
-  <p>- 👨‍💻 Meu nome é Deividy e eu trabalho com programação a praticamente 2 anos, tenho como principal área o desenvolvimento web apesar de já ter trabalhado com mobile.    </p>
-  <p>- 👨‍🎓 No momento estou cursando Analise e Desenvolvimento de sistemas, decidi pelo curso por ja estar trabalhando na area na época e após o termino de um curso tecnico de 2 anos também em desenvolvimento web</p>
-  <p>- 💪 Competências</p>
+  <p>- Desenvolvedor a 4 anos, leve vício por lo fi e amante das artes obscuras do hardware   </p>
+  <p>- 💪 Competências (As Principais)</p>
   <hr>
   <p>- Linguagens:
     <div style="display: inline_block"><br>
