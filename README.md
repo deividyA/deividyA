@@ -1,5 +1,5 @@
 <h3>
-  <p>- Desenvolvedor a 4 anos, leve vício por lo fi e amante das artes obscuras do hardware   </p>
+  <p>- Desenvolvedor a 4 anos e amante das artes obscuras do hardware   </p>
   <p>- 💪 Competências (As Principais)</p>
   <hr>
   <p>- Linguagens:
